@@ -1,7 +1,14 @@
 <h1 align="center">𝗦weet's Profile</h1>
 
 
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/29f51bb9-4f29-4589-9362-3bf39e596810" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/29f51bb9-4f29-4589-9362-3bf39e596810"
+    alt="Sweet Banner"
+    style="border-radius: 24px; max-width: 100%;"
+  />
+</p>
+
 
 
 
