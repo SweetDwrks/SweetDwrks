@@ -9,7 +9,7 @@
 
 # **🍰 About me**
 <br>
-<h2>Heya! I’m a student studying to become a full stack developer. I love reading and writing books, dreaming freely, listening to music, playing cozy games, and watching anime. I enjoy learning at my own pace, creating things with care, and finding beauty in the little moments — like quiet nights, soft thoughts, and butterflies <3</h2>
+<h3>Heya! I’m a student studying to become a full stack developer. I love reading and writing books, dreaming freely, listening to music, playing cozy games, and watching anime. I enjoy learning at my own pace, creating things with care, and finding beauty in the little moments — like quiet nights, soft thoughts, and butterflies <3</h3>
 <br><br><br>
 
 
