@@ -1,4 +1,4 @@
-<h1 align="center">𝗦𝗪𝗘𝗘𝗧𝗜𝗘´𝗦 𝗣𝗥𝗢𝗙𝗜𝗟𝗘</h1>
+<h1 align="center">𝗦weet's Profile</h1>
 
 
 <img width="2000" height="580" alt="Image" src="https://github.com/user-attachments/assets/9b6eaa53-a9dc-4aa5-94c4-5d29eb90a5a1" />
@@ -15,7 +15,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 
 
-## 🌼 Languages & Technologies
+# 🌼 Languages & Technologies
 
 <br>
 
