@@ -1,6 +1,6 @@
 <h1 align="center">𝗦weet's Profile</h1>
 
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/0fd7514a-f396-4340-a76a-5db3a75d19ed" />
+<img width="1200" height="660" alt="Image" src="https://github.com/user-attachments/assets/78eb58e1-02a3-4bcd-b01c-53fef7961365" />
 
 
 
