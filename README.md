@@ -9,7 +9,7 @@
 
 
 
-# **🍰 About me**
+# **🌹 About me**
 <br>
 <p align="center">
   <img 
@@ -22,7 +22,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 
 
-# **🌸 Languages & Technologies**
+# **🍅 Languages & Technologies**
 
 <br>
 
