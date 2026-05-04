@@ -41,6 +41,10 @@ I like soft details, red tones, sunrise-inspired visuals and layouts that feel s
 
 ---
 
+Markdown.md colado
+Arquivo
+ ta muito na cara que foi copiado, deixe so a versão em ingles e crie uma parte de linguagem (portugues com a bandeira do brasil e ingles com a bandeira do eua) com um contador no final, que ja exista, algo fofinho 
+
 ## ✦ Current focus
 
 ```txt
