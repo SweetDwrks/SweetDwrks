@@ -11,7 +11,12 @@
 
 # **🍰 About me**
 <br>
-<img align="left" width="100" alt="Image" src="https://github.com/user-attachments/assets/4c209e13-1312-4344-8596-9d708f731f9f" />
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0bHZ4d3N4M3N5cWc1dW9tYjZtM3FqZ2J6c2s3cGx6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif"
+    width="240"
+  />
+</p>
 Heya! I’m a student studying to become a full stack developer. I love reading and writing books, dreaming freely, listening to music, playing cozy games, and watching anime. I enjoy learning at my own pace, creating things with care, and finding beauty in the little moments — like quiet nights, soft thoughts, and butterflies <3
 <br><br><br>
 
