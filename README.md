@@ -182,15 +182,11 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120" />
+<img src="https://komarev.com/ghpvc/?username=SweetDwrks&label=&color=ff4b6e&style=for-the-badge" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SweetDwrks&label=Sweet%20Visitors&color=ff4b6e&style=for-the-badge" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF4B6E&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile+%E2%9D%A4;Hope+you+found+something+sweet+here+%F0%9F%8C%B9" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=FF4B6E&center=true&vCenter=true&width=200&lines=%E2%9D%A4;%E2%9D%A4%E2%9D%A4;%E2%9D%A4%E2%9D%A4%E2%9D%A4" />
 
 </div>
 
