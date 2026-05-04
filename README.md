@@ -96,7 +96,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 
 <div align="center">
   <a href="https://github.com/SweetDwrks">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetDwrks&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetDwrks&layout=compact&langs_count=7&theme=tokyonight"/> 
   
 </div>
 
