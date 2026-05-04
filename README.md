@@ -14,7 +14,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0bHZ4d3N4M3N5cWc1dW9tYjZtM3FqZ2J6c2s3cGx6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif"
-    width="240"
+    width="100"
   />
 </p>
 Heya! I’m a student studying to become a full stack developer. I love reading and writing books, dreaming freely, listening to music, playing cozy games, and watching anime. I enjoy learning at my own pace, creating things with care, and finding beauty in the little moments — like quiet nights, soft thoughts, and butterflies <3
@@ -97,7 +97,7 @@ Heya! I’m a student studying to become a full stack developer. I love reading 
 <div align="center">
   <a href="https://github.com/SweetDwrks">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SweetDwrks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweetDwrks&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
 
 
