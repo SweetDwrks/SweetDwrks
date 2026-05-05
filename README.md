@@ -83,7 +83,7 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 <table>
 <tr>
-<td align="center" width="280">
+<td align="center" width="220">
 <h3>Frontend</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF4B6E?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +92,7 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <h3>Backend</h3>
 
 ![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
@@ -101,7 +101,15 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
+<h3>Database</h3>
+
+![SQLite](https://img.shields.io/badge/SQLite-FF4B6E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+
+<td align="center" width="220">
 <h3>Tools</h3>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-FF4B6E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
