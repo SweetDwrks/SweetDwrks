@@ -97,7 +97,7 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 ![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3B0A0A?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
 
@@ -106,15 +106,16 @@ My style is a mix of creativity, delicate details, red tones, quiet beauty and a
 
 ![SQLite](https://img.shields.io/badge/SQLite-FF4B6E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-8B0000?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </td>
 
 <td align="center" width="220">
 <h3>Tools</h3>
 
-![VS Code](https://img.shields.io/badge/VS_Code-FF4B6E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-B22222?style=for-the-badge&logo=windows11&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4B6E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-B22222?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
