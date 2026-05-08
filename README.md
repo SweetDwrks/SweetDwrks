@@ -10,8 +10,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SweetDwrks)
-[![Gmail](https://img.shields.io/badge/Gmail-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white)](mariavitoria.s.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=vercel&logoColor=white)]()
 
 </div>
 
